@@ -1,0 +1,7 @@
+project_id = "xmaaeyxmgtnfqxjlvpkz"
+
+[functions.ai-plant-consultant]
+verify_jwt = false
+
+[functions.analyze-plant]
+verify_jwt = false
